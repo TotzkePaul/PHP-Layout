@@ -1,0 +1,44 @@
+p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+blockquote {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+pre {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714282989502px;
+}
+.bold {
+    font-weight: bold;
+}
+ul
+{
+    list-style-type: none;
+}
+
+.indent {
+    margin-left: 30px;
+}
+.handwriting {
+    font-family:"lucida calligraphy",arial,'sans serif';
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.1);
+}
